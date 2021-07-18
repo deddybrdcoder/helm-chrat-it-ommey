@@ -3,12 +3,12 @@ entries:
   web-it-ommey:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-07-19T06:19:14.399127522+07:00"
+    created: "2021-07-19T06:29:13.834001554+07:00"
     description: A Helm chart for Kubernetes
-    digest: bef1ccc9b5b4389f81d3e9480796cd5b59c1c0702826ceea587f4dd9512fb584
+    digest: 745d705399ea390df998ee4cc52303c573303f5378a503b232c0a7fb52fd6615
     name: web-it-ommey
     type: application
     urls:
     - https://deddybrdcoder.github.io/helm-chrat-it-ommey/web-it-ommey-0.1.0.tgz
     version: 0.1.0
-generated: "2021-07-19T06:19:14.397169196+07:00"
+generated: "2021-07-19T06:29:13.831144609+07:00"
